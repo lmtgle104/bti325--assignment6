@@ -6,7 +6,7 @@
 * 
 *  Name: ____Tung Lam Le__________________ Student ID: _188325211_____________ Date: ______4/12/2023__________
 *
-*  Online (Cyclic) Link: https://tricky-red-crown.cyclic.app
+*  Online (Cyclic) Link: 
 *
 ********************************************************************************/ 
 
